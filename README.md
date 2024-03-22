@@ -25,6 +25,6 @@ Execute the following command:
 
     vim ~/.profile
 
-Add the command to the bottom of the file.
-Save and close the file.
+Add the command to the bottom of the file.  
+Save and close the file.  
 Log out and log in again on ubuntu.    
