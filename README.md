@@ -13,7 +13,7 @@ Execute on terminal the following command:
 
     docker run -d -p 8080:80 nginx
 
-### NGINX CONTAINER    
+### PYTHON SCRIPT FOR MONITORING ON UBUNTU    
 
 Step 4: Install requests python package to make a request to the nginx server.
 Execute the following command for ubuntu/debian:
